@@ -1,0 +1,13 @@
+{
+  "name": "react-native-animated-popup",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/ronymmoura/react-native-animated-popup.git",
+  "author": "Rony Moura <ronymmoura@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-native": "^0.62.10",
+    "react-native": "^0.62.2",
+    "typescript": "^3.9.3"
+  }
+}
